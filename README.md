@@ -1,5 +1,6 @@
-### Hi there 👋
-## Welcome to my Github Profile
+## Welcome to my Github Profile 👋
+### Hey, it's Daniel! Here you will find a part of myself, from my very first code to my latest project! Enjoy it!
+
 
 
 
